@@ -1,0 +1,20 @@
+body{
+    background: color #5e4c36;
+    text-align: left;
+}
+h1{
+    color: rgb(18, 18, 54);
+}
+h2{
+    color: #0008b0
+}
+h3{
+    color: rgb(9, 9, 99);
+}
+h6{
+    color: rgb(18, 4, 31);
+}
+section{
+    text-align: right;
+    position: absolute; top: 0em; right: 0em;
+}
